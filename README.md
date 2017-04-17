@@ -1,7 +1,7 @@
 # test coverage for  [liftoff (v2.3.0)](https://github.com/js-cli/js-liftoff)  [![npm package](https://img.shields.io/npm/v/npmtest-liftoff.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-liftoff) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-liftoff.svg)](https://travis-ci.org/npmtest/node-npmtest-liftoff)
 #### Launch your command line tool with ease.
 
-[![NPM](https://nodei.co/npm/liftoff.png?downloads=true)](https://www.npmjs.com/package/liftoff)
+[![NPM](https://nodei.co/npm/liftoff.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/liftoff)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-liftoff/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-liftoff/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-liftoff/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-liftoff/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-liftoff/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-liftoff/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-liftoff/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-liftoff/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-liftoff/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-liftoff/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-liftoff%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-liftoff/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-liftoff/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-liftoff/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-liftoff/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-liftoff%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-liftoff/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-liftoff/build/test-report.html](https://npmtest.github.io/node-npmtest-liftoff/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-liftoff/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-liftoff/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-liftoff/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-liftoff/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-liftoff/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-liftoff/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-liftoff/build/screenCapture.npmPackageListing.svg)
 
@@ -71,25 +77,20 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "jonschlinkert",
-            "email": "github@sellside.com"
+            "name": "jonschlinkert"
         },
         {
-            "name": "phated",
-            "email": "blaine.bublitz@gmail.com"
+            "name": "phated"
         },
         {
-            "name": "tkellen",
-            "email": "tyler@sleekcode.net"
+            "name": "tkellen"
         },
         {
-            "name": "tusbar",
-            "email": "bertrand.marron@gmail.com"
+            "name": "tusbar"
         }
     ],
     "name": "liftoff",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/js-cli/js-liftoff.git"
