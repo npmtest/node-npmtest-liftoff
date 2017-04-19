@@ -1,4 +1,7 @@
-# test coverage for  [liftoff (v2.3.0)](https://github.com/js-cli/js-liftoff)  [![npm package](https://img.shields.io/npm/v/npmtest-liftoff.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-liftoff) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-liftoff.svg)](https://travis-ci.org/npmtest/node-npmtest-liftoff)
+# npmtest-liftoff
+
+#### test coverage for  [liftoff (v2.3.0)](https://github.com/js-cli/js-liftoff)  [![npm package](https://img.shields.io/npm/v/npmtest-liftoff.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-liftoff) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-liftoff.svg)](https://travis-ci.org/npmtest/node-npmtest-liftoff)
+
 #### Launch your command line tool with ease.
 
 [![NPM](https://nodei.co/npm/liftoff.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/liftoff)
