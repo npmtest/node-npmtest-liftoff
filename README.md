@@ -1,6 +1,6 @@
 # npmtest-liftoff
 
-#### test coverage for  [liftoff (v2.3.0)](https://github.com/js-cli/js-liftoff)  [![npm package](https://img.shields.io/npm/v/npmtest-liftoff.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-liftoff) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-liftoff.svg)](https://travis-ci.org/npmtest/node-npmtest-liftoff)
+#### basic test coverage for  [liftoff (v2.3.0)](https://github.com/js-cli/js-liftoff)  [![npm package](https://img.shields.io/npm/v/npmtest-liftoff.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-liftoff) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-liftoff.svg)](https://travis-ci.org/npmtest/node-npmtest-liftoff)
 
 #### Launch your command line tool with ease.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-liftoff/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-liftoff/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-liftoff/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-liftoff/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-liftoff/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-liftoff/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-liftoff/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-liftoff/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-liftoff/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-liftoff/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-liftoff/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-liftoff/build/coverage.html/index.html)
 
@@ -101,7 +101,8 @@
     "scripts": {
         "test": "jshint lib index.js && jscs lib index.js && mocha -t 5000 -b -R spec test/index"
     },
-    "version": "2.3.0"
+    "version": "2.3.0",
+    "bin": {}
 }
 ```
 
